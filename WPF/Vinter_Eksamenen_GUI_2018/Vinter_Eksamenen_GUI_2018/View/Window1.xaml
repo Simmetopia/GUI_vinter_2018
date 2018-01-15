@@ -1,0 +1,16 @@
+﻿<Window x:Class="Vinter_Eksamenen_GUI_2018.View.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vinter_Eksamenen_GUI_2018.View"
+        xmlns:viewModel="clr-namespace:Vinter_Eksamenen_GUI_2018.ViewModel"
+        mc:Ignorable="d"
+        Title="Window1" Height="300" Width="300">
+    <Window.DataContext>
+        <viewModel:Window1ViewModel/>
+    </Window.DataContext>
+    <Grid>
+        
+    </Grid>
+</Window>
