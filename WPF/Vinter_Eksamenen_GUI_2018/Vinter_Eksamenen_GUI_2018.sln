@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vinter_Eksamenen_GUI_2018", "Vinter_Eksamenen_GUI_2018\Vinter_Eksamenen_GUI_2018.csproj", "{20923009-62EA-45F1-9E2D-C9AC4A0B6634}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEB", "..\..\WEB\WEB.csproj", "{0BFB3B44-F0E3-44B2-A801-D541DC47FAA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{20923009-62EA-45F1-9E2D-C9AC4A0B6634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20923009-62EA-45F1-9E2D-C9AC4A0B6634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20923009-62EA-45F1-9E2D-C9AC4A0B6634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFB3B44-F0E3-44B2-A801-D541DC47FAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFB3B44-F0E3-44B2-A801-D541DC47FAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFB3B44-F0E3-44B2-A801-D541DC47FAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFB3B44-F0E3-44B2-A801-D541DC47FAA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
